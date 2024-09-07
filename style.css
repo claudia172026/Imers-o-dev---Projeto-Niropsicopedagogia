@@ -1,0 +1,50 @@
+/*estilo cabeçalho e corpo*/
+header {
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+background-color: burlywood;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+    max-width: 80%;
+    margin: 0 auto;
+    
+}
+
+
+
+/* trecho para trabalhar perguntas */
+
+.informacao {
+  display: none;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin: 5px;
+}
+
+.subtitle {
+  cursor: pointer;
+  background-color: #f1f1f1;
+  padding: 14px;S
+  border: 1px solid #ddd;
+  margin: 13px;
+  border-radius: 17px;
+  box-shadow:0 2px 4px;
+}
+
+/* fim do trecho para trabalhar perguntas */
+
+/* inicio trecho para trabalhar a informacao*/
+
+.informacao{
+  background-color: rgb(182, 88, 22);
+}
+
+
+
+
